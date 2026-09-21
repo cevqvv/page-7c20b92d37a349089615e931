@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "06405da02464fd5d3f1ad0ed",
+  "owner": "cevqvv",
+  "repo": "page-7c20b92d37a349089615e931",
+  "title": "EdNovas云(EdNovas)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7c20b92d37a349089615e931",
+      "a": "EdNovas云(EdNovas)",
+      "b": "2027官方最新地址导航",
+      "entity": "EdNovas云(EdNovas)",
+      "brand": "EdNovas云(EdNovas)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7566be2a0ef228afc6bd11714d2d8a39d82f6cfe3747ad0760e3f90f85772ef6",
+      "content": {
+        "primary_entity": "EdNovas云(EdNovas)",
+        "keyword1": "EdNovas云(EdNovas)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，EdNovas云为跨境访问、流媒体观看与远程办公提供多种线路与设备套餐。基础版、旗舰版和团队版分别面向轻量浏览、多设备家庭与小型团队，流量从每月 100GB 到 1000GB 可选，年付方案较月付更划算。按设备类型配置订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量匹配跨境加速方案",
+          "AI_HERO_INTRO": "EdNovas云提供基础版、旗舰版与团队版三档加速服务，覆盖个人浏览、流媒体解锁、游戏加速及团队多设备场景。每月流量从 100GB 到 1000GB，同时在线设备从 3 台到 20 台，年付价格分别约 ¥150、¥350、¥850。",
+          "AI_VISUAL_TITLE": "选择适合你的加速版本",
+          "AI_HIGHLIGHT_1": "三档套餐按需升级",
+          "AI_HIGHLIGHT_2": "多设备同时在线支持",
+          "AI_HIGHLIGHT_3": "年付方案更划算",
+          "AI_FEATURES_TITLE": "功能与套餐要点",
+          "AI_FEATURES_INTRO": "从使用场景出发，快速了解套餐与配置重点。",
+          "AI_FEATURE_TITLE_1": "按设备数量选版本",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 3 台设备，旗舰版支持 5 台，团队版覆盖 20 台，多设备可共享订阅配置。",
+          "AI_FEATURE_TITLE_2": "按流量需求选套餐",
+          "AI_FEATURE_TEXT_2": "轻度浏览选 100GB 基础版，日常影音选 300GB 旗舰版，团队协作或大量传输选 1000GB 团队版。",
+          "AI_FEATURE_TITLE_3": "按使用周期选付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可优先考虑年付。",
+          "AI_CLIENTS_TITLE": "在常用设备上配置客户端",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，按订阅配置文件说明完成导入即可使用。",
+          "AI_PLANS_TITLE": "套餐参数对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，每月 100GB、3 台设备；旗舰版 ¥35/月，每月 300GB、5 台设备、IPLC 专线；团队版 ¥85/月，每月 1000GB、20 台设备、VIP 高带宽节点。",
+          "AI_GUIDE_TITLE": "三步完成订阅与配置",
+          "AI_GUIDE_INTRO": "先确定版本，再查看设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版之间选定一个版本。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看设备系统版本、客户端名称及订阅链接格式，确保当前设备满足导入条件。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "打开对应客户端，按文档指引粘贴订阅地址或导入配置文件，保存后连接节点即可。",
+          "AI_CLOSING_TITLE": "选对版本，稳定连接",
+          "AI_CLOSING_TEXT": "根据设备与流量挑好套餐，按客户端说明完成订阅导入，开始你的加速体验。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "EdNovas云支持哪些设备同时使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版可支持 20 台。超出额度时，需要减少在线设备或升级套餐。",
+          "AI_FAQ_QUESTION_2": "如何导入 EdNovas云订阅？",
+          "AI_FAQ_ANSWER_2": "在对应平台的客户端中打开订阅导入功能，粘贴订阅信息并更新节点列表即可。不同客户端的操作位置略有差异，可参照其文档说明。",
+          "AI_FAQ_QUESTION_3": "套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_3": "每月流量按套餐额度计算，基础版 100GB、旗舰版 300GB、团队版 1000GB。用完后可等待下月重置，或切换至更高流量档位。",
+          "AI_FAQ_QUESTION_4": "按年付与按月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "功能权益一致，区别在于计费周期。按年付价格分别为 ¥150、¥350 与 ¥850，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_5": "旗舰版的流媒体和游戏优化体现在哪里？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合对观看体验和连接稳定性有要求的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ztcdt.cn",
+    "host": "ztcdt.cn"
+  },
+  "file_hashes": {
+    "index.html": "d757bc2a4bebba191153893edb875576271a7a4df5535cc48719555852da152f",
+    "sitemap.xml": "f5a36605ceb2dd3191260962fd352f3b50fcac59da8f045face7eb8e56fd9f96",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a46bcff8b21909ece440fad321a53480100508e0a9e8376f2c9556b5b3704355",
+    "robots.txt": "31fb888bde8cd8ae9fab7d49788242253b6171a5b00c7db823a0d6ed47c37e8b",
+    "58b49f84adb025f6983cf9b2487a399a.txt": "2affa4311971ec6cfb7f82a6cdca1e323410cf45ce606a80f02e6f46082fe0a8"
+  },
+  "revision": "c0cf5656ddacfa11bbd94d50ab2979465251e68f45180eefdc6201c9bb40f17e"
+}
